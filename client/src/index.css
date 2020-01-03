@@ -1,0 +1,14 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+
+input.yellow-input {
+    border-bottom: 3px solid rgb(64, 185, 255) !important;
+    background-color: rgb(0, 177, 247) !important;
+    padding: 5px;
+}
+
+input.yellow-input+label {
+    color: #ffffff !important;
+    margin: 5px;
+
+}
